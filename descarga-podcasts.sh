@@ -71,12 +71,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Luna-Hiena/lun
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA DE METROPOLES DELIRANTES
-#PODCAST_RSS_URL="http://www.ivoox.com/podcast-metropoles-delirantes_fg_f199911_filtro_1.xml"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Metropoles-Delirantes/metropoles-delirantes.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 
 #DESCARGA DE PROXECTO NEO ENTREVISTAS
 #PODCAST_RSS_URL="http://www.ivoox.com/podcast-entrevistas_fg_f1273438_filtro_1.xml"
@@ -115,19 +109,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Mar-de-Fueguit
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-
-#DESCARGA DE MAS VOCES
-#PODCAST_RSS_URL="http://www.masvoces.org/spip.php?page=backend&id_rubrique=1"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Mas-Voces/mas-voces.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA DE MAS VOCES RESUMEN SEMANAL
-#PODCAST_RSS_URL="http://www.masvoces.org/spip.php?page=backend&id_rubrique=31"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Mas-Voces-Resumen-Semanal/mas-voces-semanal.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 #DESCARGA DE LA CAFETERA RADIOCABLE
 PODCAST_RSS_URL="http://www.spreaker.com/user/5647623/episodes/feed"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Cafetera-RadioCable/cafetera-radiocable.mp3"
@@ -140,12 +121,11 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Grandes-Voces-
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA DE BURAN
-#PODCAST_RSS_URL="http://www.ivoox.com/buran_fg_f1406704_filtro_1.xml"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Buran/buran.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
+#DESCARGA DE HIGH STREET
+PODCAST_RSS_URL="https://www.ivoox.com/podcast-higher-street-radiofusion_fg_f1795901_filtro_1.xml"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Higher-Street/higher-street.mp3"
+DURACION_MINIMA="0"
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 # REDIFUSIONES PROGRAMAS INTERNOS
 
@@ -299,35 +279,12 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Mi-Rollo-Es-El-Rock/mi-rol
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA REVERSION
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/reversion/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Reversion/reversion.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA ONDAS DO CARCERE
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/ondas-do-carcere/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Ondas-Do-Carcere/ondas-do-carcere.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 #DESCARGA XERACION BRAVU
 #PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/xeracion-bravu/rss/"
 #FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Xeracion-Bravu/xeracion-bravu.mp3"
 #DURACION_MINIMA="0"
 #/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA RADIO PROMETEA
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/radio-prometea/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Radio-Prometea/radio-prometea.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA RADIANTES FM
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/radiantes-fm/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Radiantes-FM/radiantes-fm.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 #DESCARGA LOCO IVAN
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/loco-ivan/rss/"
@@ -335,12 +292,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Loco-Ivan/loco-ivan.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-
-#DESCARGA UNA NOCHE EN LA OPERA
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/una-noche-en-la-opera/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Una-Noche-En-La-Opera/una-noche-en-la-opera.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 #DESCARGA ENWORKING
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/enworking/rss/"
@@ -407,29 +358,11 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Radiosenior/radiosenior.mp
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA LA HORA DEL ROCK AND ROLL
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/la-hora-del-rock-and-roll/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/La-Hora-Del-Rock-And-Roll/la-hora-del-rock-and-roll.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA DALE VOZ
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/dale-voz/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Dale-Voz/dale-voz.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 #DESCARGA ESPECIAL FESTIVAL NOROESTE ESTRELLA GALICIA
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/especial-festival-noroeste-estrella-galicia/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Especial-Festival-Noroeste-Estrella-Galicia/especial-festival-noroeste-estrella-galicia.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA Y A TI QUE TE IMPORTA
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/y-a-ti-que-te-importa/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Y-A-Ti-Que-Te-Importa/y-a-ti-que-te-importa.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 #DESCARGA RADIOCASSETTE
 #PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/radiocassette/rss/"
@@ -443,23 +376,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Enboxes/enboxes.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA LA REGADERA
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/la-regadera/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/La-Regadera/la-regadera.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA PERFORACCIÓN
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/perforaccion/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Perforaccion/perforaccion.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA CAMBIA SI CAMBIO
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/cambia-si-cambio/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Cambia-Si-Cambio/cambia-si-cambio.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 #DESCARGA POCA BROMA
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/poca-broma/rss/"
@@ -560,12 +476,6 @@ if [[ "$ULTIMA_FECHA_FICHERO_COMUN" < "$ULTIMA_FECHA_DESCARGA_PODCAST" ]]
       cp -a "$FICHERO_DESTINO" "$FICHERO_COMUN"
 fi
 
-
-#DESCARGA MALHUMORHADAS
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/malhumorhadas/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Malhumorhadas/malhumorhadas.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 
 #DESCARGA A VELETA
@@ -756,16 +666,6 @@ PODCAST_RSS_URL="https://www.ivoox.com/podcast-podcast-podcast-palma-romeros_fg_
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/ONDA-COLOR/Palma-Y-Romeros/palma-y-romeros.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-
-#PODCAST DE MIXCLOUD AL FINAL - NO FUNCIONA LA CONVERSION DE MIXCLOUD A RSS
-# POR ESO ESTA COMENTADO
-#DESCARGA DE HIGHSTREET
-
-#PODCAST_RSS_URL="https://www.mixcloud.com/HigherClub1997/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Higher-Street/higher-street.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 
 #DESCARGA DE PROGRAMAS EXTERNOS PARA CUAC - TEMPORADA 2021/2022
