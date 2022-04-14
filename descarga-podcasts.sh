@@ -515,6 +515,12 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Vellenials/vellenials.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
+#DESCARGA ¿CONOCES HANNOVER? 
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/conoces-hannover/rss/" 
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Conoces-Hannover/conoces-hannover.mp3" 
+DURACION_MINIMA="0" 
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
 
 #PETICIONES PODCAST ONDA COLOR
 # DESCARGA SANGRE FUCSIA PARA ONDACOLOR
