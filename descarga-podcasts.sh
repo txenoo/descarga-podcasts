@@ -159,9 +159,9 @@ DURACION_MINIMA="0"
 #DURACION_MINIMA="0"
 #/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA LA TARDE A NUESTRA MANERA
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/la-tarde-a-nuestra-manera/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/La-Tarde-A-Nuestra-Manera/la-tarde.mp3"
+#DESCARGA OZA-GAITEIRA: BARRIOS 2030
+#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/oza-gaiteira-barrios-2030/rss/"
+#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Oza-Gaiteira-Barrios-2030/oza-gaiteira-barrios-2030.mp3"
 #DURACION_MINIMA="0"
 #/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
@@ -201,9 +201,9 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Manda-Carallo/manda-carall
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA SE VA A LIAR Y LO SAVES
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/se-va-a-liar-y-lo-sabes/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Se-Va-A-Liar-Y-Lo-Sabes/se-va-a-liar.mp3"
+#DESCARGA CRUNIA FALA
+#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/crunia-fala/rss/"
+#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Crunia-Fala/crunia-fala.mp3"
 #DURACION_MINIMA="0"
 #/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
