@@ -689,7 +689,7 @@ DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 #DESCARGA DE COFFEE BREAK
-PODCAST_RSS_URL="https://www.ivoox.com/feed_fg_f1172891_filtro_1.xml"
+PODCAST_RSS_URL="https://feeds.acast.com/public/shows/63910e8796d1480011f2eaaa"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Coffee-Break/coffeebreak.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
