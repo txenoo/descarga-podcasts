@@ -135,39 +135,9 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Orion/orion-21.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA DE DENTRO DE UN ORDEN
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/dentro-de-un-orden/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Dentro-De-Un-Orden/dduo.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA DE EL BALCON
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/el-balcon/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/El-Balcon/el-balcon.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA MILLENIAL
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/millennial/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Millenial/millenial.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 #DESCARGA TAPAS Y RACIONES
 #PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/tapas-y-raciones/rss/"
 #FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Tapas-Y-Raciones/tapas-y-raciones.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA LA TARDE A NUESTRA MANERA
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/la-tarde-a-nuestra-manera/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/La-Tarde-A-Nuestra-Manera/la-tarde.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA CLIMA69
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/clima-69-roberto-doldan/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Clima-69/clima69.mp3"
 #DURACION_MINIMA="0"
 #/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
@@ -195,18 +165,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Cafe-Con-Gotas/cafe-con-go
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA MANDA CARALLO
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/manda-carallo/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Manda-Carallo/manda-carallo.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA SE VA A LIAR Y LO SAVES
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/se-va-a-liar-y-lo-sabes/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Se-Va-A-Liar-Y-Lo-Sabes/se-va-a-liar.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 #DESCARGA CIRCO PIRATA
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/circo-pirata/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Circo-Pirata/circo-pirata.mp3"
@@ -231,12 +189,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Simplemente-Gente/simpleme
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA SIN ETIQUETAS
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/sin-etiquetas/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Sin-Etiquetas/sin-etiquetas.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 #DESCARGA A FUME DE CAROZO
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/a-fume-de-carozo/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/A-Fume-De-Carozo/a-fume-de-carozo.mp3"
@@ -255,24 +207,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Spoiler/spoiler.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA AZUCAR HABANERO
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/azucar-habanero/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Azucar-Habanero/azucar-habanero.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA FANTASMA ACCIDENTAL
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/fantasma-accidental/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Fantasma-Accidental/fantasma-accidental.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA FOLK IN TRIO
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/folk-in-trio/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Folk-In-Trio/folk-in-trio.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 #DESCARGA MI ROLLO ES EL ROCK
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/mi-rollo-es-el-rock/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Mi-Rollo-Es-El-Rock/mi-rollo-es-el-rock.mp3"
@@ -285,13 +219,11 @@ DURACION_MINIMA="0"
 #DURACION_MINIMA="0"
 #/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-
 #DESCARGA LOCO IVAN
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/loco-ivan/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Loco-Ivan/loco-ivan.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 
 #DESCARGA ENWORKING
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/enworking/rss/"
@@ -320,31 +252,17 @@ if [[ "$ULTIMA_FECHA_FICHERO_COMUN" < "$ULTIMA_FECHA_DESCARGA_PODCAST" ]]
       cp -a "$FICHERO_DESTINO" "$FICHERO_COMUN"
 fi
 
-#DESCARGA CUAC ESTA A PASAR
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/cuac-esta-a-pasar/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Cuac-Esta-A-Pasar/cuac-esta-a-pasar.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-
 #DESCARGA HEIMA
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/heima/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Heima/heima.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-
 #DESCARGA NUBES DE PAPEL
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/nubes-de-papel/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Nubes-De-Papel/nubes-de-papel.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA DIMENSION DESCONOCIDA (DESCOMENTAR SIGUIENTES LINEAS EN MAYO)
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/dimension-desconocida/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Dimension-Desconocida/dimension-desconocida.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 #DESCARGA CUAK'N'ROLL
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/cuaknroll/rss/"
@@ -364,28 +282,15 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Especial-Festival-Noroeste
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA RADIOCASSETTE
-#PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/radiocassette/rss/"
-#FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Radiocassette/radiocassette.mp3"
-#DURACION_MINIMA="0"
-#/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA ENBOXES
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/enboxes/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Enboxes/enboxes.mp3"
+#DESCARGA ESCAPEMOTOR
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/escapemotor/rss/"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Escapemotor/escapemotor.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
 
 #DESCARGA POCA BROMA
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/poca-broma/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Poca-Broma/poca-broma.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA INTERNET DE TU COLOR FAVORITO
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/internet-de-tu-color-favorito/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Internet-De-Tu-Color-Favorito/internet-de-tu-color-favorito.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
@@ -404,12 +309,6 @@ DURACION_MINIMA="0"
 #DESCARGA CUIDADO CORAZON
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/cuidado-corazon/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Cuidado-Corazon/cuidado-corazon.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA ULTIMO ACORDE
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/ultimo-acorde-radio/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Ultimo-Acorde-Radio/ultimo-acorde-radio.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
@@ -475,27 +374,6 @@ if [[ "$ULTIMA_FECHA_FICHERO_COMUN" < "$ULTIMA_FECHA_DESCARGA_PODCAST" ]]
       echo "Subtituyendo $FICHERO_COMUN con $FICHERO_DESTINO"
       cp -a "$FICHERO_DESTINO" "$FICHERO_COMUN"
 fi
-
-
-
-#DESCARGA A VELETA
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/veleta/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/A-Veleta/veleta.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-#DESCARGA EL OTRO CORONAVIRUS
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/el-otro-coronavirus/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/El-Otro-Coronavirus/el-otro-coronavirus.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-
-#DESCARGA Dentro de Serie
-PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/dentro-de-serie/rss/"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Dentro-De-Serie/dentro-de-serie.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
 #DESCARGA Radio 50 Y Pico
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/radio-50-y-pico/rss/"
