@@ -65,13 +65,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Abrete-De-Orel
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-#DESCARGA DE LUNA HIENA
-PODCAST_RSS_URL="http://www.ivoox.com/luna-hiena_fg_f127244_filtro_1.xml"
-FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Luna-Hiena/luna-hiena.mp3"
-DURACION_MINIMA="0"
-/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
-
-
 #DESCARGA DE PROXECTO NEO ENTREVISTAS
 #PODCAST_RSS_URL="http://www.ivoox.com/podcast-entrevistas_fg_f1273438_filtro_1.xml"
 #FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Proxecto-Neo-Entrevistas/proxecto-neo-entrevistas.mp3"
@@ -102,7 +95,6 @@ FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/La-Radio-De-Lo
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
-
 #DESCARGA DE MAR DE FUEGUITOS
 PODCAST_RSS_URL="http://www.ivoox.com/programas-mar-fueguitos_fg_f1141927_filtro_1.xml"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Mar-de-Fueguitos/mar-de-fueguitos.mp3"
@@ -126,6 +118,7 @@ PODCAST_RSS_URL="https://www.ivoox.com/podcast-higher-street-radiofusion_fg_f179
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/Programas-Externos/Higher-Street/higher-street.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
 
 # REDIFUSIONES PROGRAMAS INTERNOS
 
@@ -390,6 +383,42 @@ DURACION_MINIMA="0"
 #DESCARGA DE VELLENIALS
 PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/vellenials/rss/"
 FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Vellenials/vellenials.mp3"
+DURACION_MINIMA="0"
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
+#DESCARGA ¿CONOCES HANNOVER?
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/conoces-hannover/rss/"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Conoces-Hannover/conoces-hannover.mp3"
+DURACION_MINIMA="0"
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
+#DESCARGA DE OPINIONES EN TXURI URDIN
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/opiniones-en-txuri-urdin/rss/"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Opiniones-En-Txuri-Urdin/opiniones-en-txuri-urdin.mp3"
+DURACION_MINIMA="0"
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
+#DESCARGA OZA-GAITEIRA-OS CASTROS: BARRIOS 2030
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/oza-gaiteira-os-castros-barrios-2030/rss/"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Oza-Gaiteira-Os-Castros-Barrios-2030/oza-gaiteira-os-castros-barrios-2030.mp3"
+DURACION_MINIMA="0"
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
+#DESCARGA CRUNIA FALA
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/crunia-fala/rss/"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Crunia-Fala/crunia-fala.mp3"
+DURACION_MINIMA="0"
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
+#DESCARGA MUSIC BOX
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/music-box/rss/"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/Music-Box/music-box.mp3"
+DURACION_MINIMA="0"
+/home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
+
+#DESCARGA DE LOS ADOQUINES A LOS ALPES
+PODCAST_RSS_URL="https://cuacfm.org/radioco/programmes/de-los-adoquines-los-alpes/rss/"
+FICHERO_DESTINO="/home/cuacfm/ownCloud/Podcast/CUACFM/De-Los-Adoquines-A-Los-Alpes/de-los-adoquines-a-los-alpes.mp3"
 DURACION_MINIMA="0"
 /home/cuacfm/bin/descarga-primer-podcast-programa.sh "$PODCAST_RSS_URL" "$FICHERO_DESTINO" "$DURACION_MINIMA"
 
